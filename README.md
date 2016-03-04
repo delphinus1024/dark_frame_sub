@@ -8,8 +8,7 @@ dark_frame_sub is a simple program that imports your night sky phtography and da
 This program is especially good for erase camera specific noise such as hot pixels.
 About dark frame subtraction, refer to wiki page.
 
-[https://en.wikipedia.org/wiki/Dark-frame_subtraction
-](http://)
+[Wiki](https://en.wikipedia.org/wiki/Dark-frame_subtraction)
 
 Before
 
